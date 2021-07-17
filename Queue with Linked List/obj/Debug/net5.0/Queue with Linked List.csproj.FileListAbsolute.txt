@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\bin\Debug\net5.0\Queue with Linked List.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\bin\Debug\net5.0\Queue with Linked List.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\bin\Debug\net5.0\Queue with Linked List.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\bin\Debug\net5.0\Queue with Linked List.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\bin\Debug\net5.0\Queue with Linked List.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\bin\Debug\net5.0\ref\Queue with Linked List.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\bin\Debug\net5.0\Queue with Linked List.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\obj\Debug\net5.0\Queue with Linked List.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\obj\Debug\net5.0\Queue with Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\obj\Debug\net5.0\Queue with Linked List.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\obj\Debug\net5.0\Queue with Linked List.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\obj\Debug\net5.0\Queue with Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\obj\Debug\net5.0\Queue with Linked List.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\obj\Debug\net5.0\ref\Queue with Linked List.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\obj\Debug\net5.0\Queue with Linked List.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Queue with Linked List\obj\Debug\net5.0\Queue with Linked List.genruntimeconfig.cache

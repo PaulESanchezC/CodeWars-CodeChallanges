@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\bin\Debug\net5.0\Growth of a Population.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\bin\Debug\net5.0\Growth of a Population.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\bin\Debug\net5.0\Growth of a Population.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\bin\Debug\net5.0\Growth of a Population.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\bin\Debug\net5.0\Growth of a Population.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\bin\Debug\net5.0\ref\Growth of a Population.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\bin\Debug\net5.0\Growth of a Population.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\obj\Debug\net5.0\Growth of a Population.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\obj\Debug\net5.0\Growth of a Population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\obj\Debug\net5.0\Growth of a Population.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\obj\Debug\net5.0\Growth of a Population.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\obj\Debug\net5.0\Growth of a Population.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\obj\Debug\net5.0\Growth of a Population.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\obj\Debug\net5.0\ref\Growth of a Population.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\obj\Debug\net5.0\Growth of a Population.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Growth of a Population\obj\Debug\net5.0\Growth of a Population.genruntimeconfig.cache

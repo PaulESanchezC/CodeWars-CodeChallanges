@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Priority Queueu with Dynamic Arrays/1.0.0": {
+        "runtime": {
+          "Priority Queueu with Dynamic Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Priority Queueu with Dynamic Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

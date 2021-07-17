@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\bin\Debug\net5.0\Sheet for Practice.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\bin\Debug\net5.0\Sheet for Practice.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\bin\Debug\net5.0\Sheet for Practice.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\bin\Debug\net5.0\Sheet for Practice.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\bin\Debug\net5.0\Sheet for Practice.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\bin\Debug\net5.0\ref\Sheet for Practice.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\bin\Debug\net5.0\Sheet for Practice.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\obj\Debug\net5.0\Sheet for Practice.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\obj\Debug\net5.0\Sheet for Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\obj\Debug\net5.0\Sheet for Practice.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\obj\Debug\net5.0\Sheet for Practice.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\obj\Debug\net5.0\Sheet for Practice.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\obj\Debug\net5.0\Sheet for Practice.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\obj\Debug\net5.0\ref\Sheet for Practice.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\obj\Debug\net5.0\Sheet for Practice.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sheet for Practice\obj\Debug\net5.0\Sheet for Practice.genruntimeconfig.cache

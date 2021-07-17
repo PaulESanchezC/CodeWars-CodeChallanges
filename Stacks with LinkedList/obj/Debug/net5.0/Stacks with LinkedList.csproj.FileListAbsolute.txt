@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\bin\Debug\net5.0\Stacks with LinkedList.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\bin\Debug\net5.0\Stacks with LinkedList.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\bin\Debug\net5.0\Stacks with LinkedList.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\bin\Debug\net5.0\Stacks with LinkedList.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\bin\Debug\net5.0\Stacks with LinkedList.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\bin\Debug\net5.0\ref\Stacks with LinkedList.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\bin\Debug\net5.0\Stacks with LinkedList.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\obj\Debug\net5.0\Stacks with LinkedList.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\obj\Debug\net5.0\Stacks with LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\obj\Debug\net5.0\Stacks with LinkedList.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\obj\Debug\net5.0\Stacks with LinkedList.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\obj\Debug\net5.0\Stacks with LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\obj\Debug\net5.0\Stacks with LinkedList.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\obj\Debug\net5.0\ref\Stacks with LinkedList.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\obj\Debug\net5.0\Stacks with LinkedList.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stacks with LinkedList\obj\Debug\net5.0\Stacks with LinkedList.genruntimeconfig.cache

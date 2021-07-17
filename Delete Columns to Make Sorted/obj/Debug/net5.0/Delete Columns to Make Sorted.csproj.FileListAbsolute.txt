@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\bin\Debug\net5.0\Delete Columns to Make Sorted.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\bin\Debug\net5.0\Delete Columns to Make Sorted.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\bin\Debug\net5.0\Delete Columns to Make Sorted.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\bin\Debug\net5.0\Delete Columns to Make Sorted.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\bin\Debug\net5.0\Delete Columns to Make Sorted.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\bin\Debug\net5.0\ref\Delete Columns to Make Sorted.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\bin\Debug\net5.0\Delete Columns to Make Sorted.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\obj\Debug\net5.0\Delete Columns to Make Sorted.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\obj\Debug\net5.0\Delete Columns to Make Sorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\obj\Debug\net5.0\Delete Columns to Make Sorted.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\obj\Debug\net5.0\Delete Columns to Make Sorted.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\obj\Debug\net5.0\Delete Columns to Make Sorted.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\obj\Debug\net5.0\Delete Columns to Make Sorted.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\obj\Debug\net5.0\ref\Delete Columns to Make Sorted.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\obj\Debug\net5.0\Delete Columns to Make Sorted.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Delete Columns to Make Sorted\obj\Debug\net5.0\Delete Columns to Make Sorted.genruntimeconfig.cache

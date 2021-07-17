@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\bin\Debug\net5.0\Hashtable Array of LL.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\bin\Debug\net5.0\Hashtable Array of LL.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\bin\Debug\net5.0\Hashtable Array of LL.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\bin\Debug\net5.0\Hashtable Array of LL.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\bin\Debug\net5.0\Hashtable Array of LL.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\bin\Debug\net5.0\ref\Hashtable Array of LL.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\bin\Debug\net5.0\Hashtable Array of LL.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\obj\Debug\net5.0\Hashtable Array of LL.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\obj\Debug\net5.0\Hashtable Array of LL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\obj\Debug\net5.0\Hashtable Array of LL.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\obj\Debug\net5.0\Hashtable Array of LL.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\obj\Debug\net5.0\Hashtable Array of LL.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\obj\Debug\net5.0\Hashtable Array of LL.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\obj\Debug\net5.0\ref\Hashtable Array of LL.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\obj\Debug\net5.0\Hashtable Array of LL.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Hashtable Array of LL\obj\Debug\net5.0\Hashtable Array of LL.genruntimeconfig.cache

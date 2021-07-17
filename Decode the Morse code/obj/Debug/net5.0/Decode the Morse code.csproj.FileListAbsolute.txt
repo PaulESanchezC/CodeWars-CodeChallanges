@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\source\repos\Decode the Morse code\bin\Debug\net5.0\Decode the Morse code.exe
+C:\Users\Paulyglot\source\repos\Decode the Morse code\bin\Debug\net5.0\Decode the Morse code.deps.json
+C:\Users\Paulyglot\source\repos\Decode the Morse code\bin\Debug\net5.0\Decode the Morse code.runtimeconfig.json
+C:\Users\Paulyglot\source\repos\Decode the Morse code\bin\Debug\net5.0\Decode the Morse code.runtimeconfig.dev.json
+C:\Users\Paulyglot\source\repos\Decode the Morse code\bin\Debug\net5.0\Decode the Morse code.dll
+C:\Users\Paulyglot\source\repos\Decode the Morse code\bin\Debug\net5.0\ref\Decode the Morse code.dll
+C:\Users\Paulyglot\source\repos\Decode the Morse code\bin\Debug\net5.0\Decode the Morse code.pdb
+C:\Users\Paulyglot\source\repos\Decode the Morse code\obj\Debug\net5.0\Decode the Morse code.csprojAssemblyReference.cache
+C:\Users\Paulyglot\source\repos\Decode the Morse code\obj\Debug\net5.0\Decode the Morse code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\source\repos\Decode the Morse code\obj\Debug\net5.0\Decode the Morse code.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\source\repos\Decode the Morse code\obj\Debug\net5.0\Decode the Morse code.AssemblyInfo.cs
+C:\Users\Paulyglot\source\repos\Decode the Morse code\obj\Debug\net5.0\Decode the Morse code.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\source\repos\Decode the Morse code\obj\Debug\net5.0\Decode the Morse code.dll
+C:\Users\Paulyglot\source\repos\Decode the Morse code\obj\Debug\net5.0\ref\Decode the Morse code.dll
+C:\Users\Paulyglot\source\repos\Decode the Morse code\obj\Debug\net5.0\Decode the Morse code.pdb
+C:\Users\Paulyglot\source\repos\Decode the Morse code\obj\Debug\net5.0\Decode the Morse code.genruntimeconfig.cache

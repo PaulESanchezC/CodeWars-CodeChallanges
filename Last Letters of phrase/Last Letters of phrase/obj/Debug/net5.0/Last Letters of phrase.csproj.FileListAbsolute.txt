@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\bin\Debug\net5.0\Last Letters of phrase.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\bin\Debug\net5.0\Last Letters of phrase.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\bin\Debug\net5.0\Last Letters of phrase.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\bin\Debug\net5.0\Last Letters of phrase.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\bin\Debug\net5.0\Last Letters of phrase.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\bin\Debug\net5.0\ref\Last Letters of phrase.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\bin\Debug\net5.0\Last Letters of phrase.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\obj\Debug\net5.0\Last Letters of phrase.csproj.AssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\obj\Debug\net5.0\Last Letters of phrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\obj\Debug\net5.0\Last Letters of phrase.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\obj\Debug\net5.0\Last Letters of phrase.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\obj\Debug\net5.0\Last Letters of phrase.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\obj\Debug\net5.0\Last Letters of phrase.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\obj\Debug\net5.0\ref\Last Letters of phrase.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\obj\Debug\net5.0\Last Letters of phrase.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Letters of phrase\Last Letters of phrase\obj\Debug\net5.0\Last Letters of phrase.genruntimeconfig.cache

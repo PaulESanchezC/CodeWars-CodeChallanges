@@ -1,0 +1,32 @@
+C:\Users\Paulyglot\source\repos\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.exe
+C:\Users\Paulyglot\source\repos\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.deps.json
+C:\Users\Paulyglot\source\repos\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.runtimeconfig.json
+C:\Users\Paulyglot\source\repos\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.runtimeconfig.dev.json
+C:\Users\Paulyglot\source\repos\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.dll
+C:\Users\Paulyglot\source\repos\BalancedBracketString\bin\Debug\net5.0\ref\BalancedBracketString.dll
+C:\Users\Paulyglot\source\repos\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.pdb
+C:\Users\Paulyglot\source\repos\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.csprojAssemblyReference.cache
+C:\Users\Paulyglot\source\repos\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\source\repos\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\source\repos\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.AssemblyInfo.cs
+C:\Users\Paulyglot\source\repos\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\source\repos\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.dll
+C:\Users\Paulyglot\source\repos\BalancedBracketString\obj\Debug\net5.0\ref\BalancedBracketString.dll
+C:\Users\Paulyglot\source\repos\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.pdb
+C:\Users\Paulyglot\source\repos\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.genruntimeconfig.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\obj\Debug\net5.0\ref\BalancedBracketString.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\bin\Debug\net5.0\ref\BalancedBracketString.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\bin\Debug\net5.0\BalancedBracketString.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BalancedBracketString\obj\Debug\net5.0\BalancedBracketString.genruntimeconfig.cache

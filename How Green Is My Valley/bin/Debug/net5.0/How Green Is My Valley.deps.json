@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "How Green Is My Valley/1.0.0": {
+        "runtime": {
+          "How Green Is My Valley.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "How Green Is My Valley/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

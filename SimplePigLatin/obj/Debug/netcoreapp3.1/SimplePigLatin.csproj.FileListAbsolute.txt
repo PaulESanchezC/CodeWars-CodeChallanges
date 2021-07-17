@@ -1,0 +1,13 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\bin\Debug\netcoreapp3.1\SimplePigLatin.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\bin\Debug\netcoreapp3.1\SimplePigLatin.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\bin\Debug\netcoreapp3.1\SimplePigLatin.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\bin\Debug\netcoreapp3.1\SimplePigLatin.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\bin\Debug\netcoreapp3.1\SimplePigLatin.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\bin\Debug\netcoreapp3.1\SimplePigLatin.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\obj\Debug\netcoreapp3.1\SimplePigLatin.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\obj\Debug\netcoreapp3.1\SimplePigLatin.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\obj\Debug\netcoreapp3.1\SimplePigLatin.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\obj\Debug\netcoreapp3.1\SimplePigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\obj\Debug\netcoreapp3.1\SimplePigLatin.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\obj\Debug\netcoreapp3.1\SimplePigLatin.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\SimplePigLatin\obj\Debug\netcoreapp3.1\SimplePigLatin.genruntimeconfig.cache

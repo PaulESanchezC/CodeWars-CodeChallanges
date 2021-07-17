@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\bin\Debug\net5.0\Rot13.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\bin\Debug\net5.0\Rot13.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\bin\Debug\net5.0\Rot13.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\bin\Debug\net5.0\Rot13.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\bin\Debug\net5.0\Rot13.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\bin\Debug\net5.0\ref\Rot13.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\bin\Debug\net5.0\Rot13.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\obj\Debug\net5.0\Rot13.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\obj\Debug\net5.0\Rot13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\obj\Debug\net5.0\Rot13.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\obj\Debug\net5.0\Rot13.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\obj\Debug\net5.0\Rot13.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\obj\Debug\net5.0\Rot13.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\obj\Debug\net5.0\ref\Rot13.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\obj\Debug\net5.0\Rot13.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Rot13\obj\Debug\net5.0\Rot13.genruntimeconfig.cache

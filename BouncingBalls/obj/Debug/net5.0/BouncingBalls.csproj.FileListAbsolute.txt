@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\bin\Debug\net5.0\BouncingBalls.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\bin\Debug\net5.0\BouncingBalls.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\bin\Debug\net5.0\BouncingBalls.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\bin\Debug\net5.0\BouncingBalls.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\bin\Debug\net5.0\BouncingBalls.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\bin\Debug\net5.0\ref\BouncingBalls.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\bin\Debug\net5.0\BouncingBalls.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\obj\Debug\net5.0\BouncingBalls.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\obj\Debug\net5.0\BouncingBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\obj\Debug\net5.0\BouncingBalls.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\obj\Debug\net5.0\BouncingBalls.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\obj\Debug\net5.0\BouncingBalls.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\obj\Debug\net5.0\BouncingBalls.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\obj\Debug\net5.0\ref\BouncingBalls.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\obj\Debug\net5.0\BouncingBalls.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\BouncingBalls\obj\Debug\net5.0\BouncingBalls.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\bin\Debug\net5.0\Moving Zeros To The End.exe
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\bin\Debug\net5.0\Moving Zeros To The End.deps.json
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\bin\Debug\net5.0\Moving Zeros To The End.runtimeconfig.json
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\bin\Debug\net5.0\Moving Zeros To The End.runtimeconfig.dev.json
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\bin\Debug\net5.0\Moving Zeros To The End.dll
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\bin\Debug\net5.0\ref\Moving Zeros To The End.dll
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\bin\Debug\net5.0\Moving Zeros To The End.pdb
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\obj\Debug\net5.0\Moving Zeros To The End.csprojAssemblyReference.cache
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\obj\Debug\net5.0\Moving Zeros To The End.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\obj\Debug\net5.0\Moving Zeros To The End.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\obj\Debug\net5.0\Moving Zeros To The End.AssemblyInfo.cs
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\obj\Debug\net5.0\Moving Zeros To The End.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\obj\Debug\net5.0\Moving Zeros To The End.dll
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\obj\Debug\net5.0\ref\Moving Zeros To The End.dll
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\obj\Debug\net5.0\Moving Zeros To The End.pdb
+C:\Users\Paulyglot\source\repos\Moving Zeros To The End\obj\Debug\net5.0\Moving Zeros To The End.genruntimeconfig.cache

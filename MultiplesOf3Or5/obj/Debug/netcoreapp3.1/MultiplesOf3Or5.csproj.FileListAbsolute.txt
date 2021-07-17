@@ -1,0 +1,13 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\bin\Debug\netcoreapp3.1\MultiplesOf3Or5.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\bin\Debug\netcoreapp3.1\MultiplesOf3Or5.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\bin\Debug\netcoreapp3.1\MultiplesOf3Or5.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\bin\Debug\netcoreapp3.1\MultiplesOf3Or5.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\bin\Debug\netcoreapp3.1\MultiplesOf3Or5.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\bin\Debug\netcoreapp3.1\MultiplesOf3Or5.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\obj\Debug\netcoreapp3.1\MultiplesOf3Or5.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\obj\Debug\netcoreapp3.1\MultiplesOf3Or5.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\obj\Debug\netcoreapp3.1\MultiplesOf3Or5.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\obj\Debug\netcoreapp3.1\MultiplesOf3Or5.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\obj\Debug\netcoreapp3.1\MultiplesOf3Or5.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\obj\Debug\netcoreapp3.1\MultiplesOf3Or5.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\MultiplesOf3Or5\obj\Debug\netcoreapp3.1\MultiplesOf3Or5.genruntimeconfig.cache

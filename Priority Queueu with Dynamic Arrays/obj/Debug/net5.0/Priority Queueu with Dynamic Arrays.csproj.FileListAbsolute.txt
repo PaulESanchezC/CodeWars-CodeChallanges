@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\bin\Debug\net5.0\Priority Queueu with Dynamic Arrays.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\bin\Debug\net5.0\Priority Queueu with Dynamic Arrays.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\bin\Debug\net5.0\Priority Queueu with Dynamic Arrays.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\bin\Debug\net5.0\Priority Queueu with Dynamic Arrays.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\bin\Debug\net5.0\Priority Queueu with Dynamic Arrays.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\bin\Debug\net5.0\ref\Priority Queueu with Dynamic Arrays.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\bin\Debug\net5.0\Priority Queueu with Dynamic Arrays.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\obj\Debug\net5.0\Priority Queueu with Dynamic Arrays.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\obj\Debug\net5.0\Priority Queueu with Dynamic Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\obj\Debug\net5.0\Priority Queueu with Dynamic Arrays.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\obj\Debug\net5.0\Priority Queueu with Dynamic Arrays.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\obj\Debug\net5.0\Priority Queueu with Dynamic Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\obj\Debug\net5.0\Priority Queueu with Dynamic Arrays.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\obj\Debug\net5.0\ref\Priority Queueu with Dynamic Arrays.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\obj\Debug\net5.0\Priority Queueu with Dynamic Arrays.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Priority Queueu with Dynamic Arrays\obj\Debug\net5.0\Priority Queueu with Dynamic Arrays.genruntimeconfig.cache

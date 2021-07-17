@@ -1,0 +1,13 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\bin\Debug\netcoreapp3.1\CodeChallangeIsogram.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\bin\Debug\netcoreapp3.1\CodeChallangeIsogram.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\bin\Debug\netcoreapp3.1\CodeChallangeIsogram.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\bin\Debug\netcoreapp3.1\CodeChallangeIsogram.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\bin\Debug\netcoreapp3.1\CodeChallangeIsogram.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\bin\Debug\netcoreapp3.1\CodeChallangeIsogram.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\obj\Debug\netcoreapp3.1\CodeChallangeIsogram.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\obj\Debug\netcoreapp3.1\CodeChallangeIsogram.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\obj\Debug\netcoreapp3.1\CodeChallangeIsogram.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\obj\Debug\netcoreapp3.1\CodeChallangeIsogram.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\obj\Debug\netcoreapp3.1\CodeChallangeIsogram.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\obj\Debug\netcoreapp3.1\CodeChallangeIsogram.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeChallangeIsogram\obj\Debug\netcoreapp3.1\CodeChallangeIsogram.genruntimeconfig.cache

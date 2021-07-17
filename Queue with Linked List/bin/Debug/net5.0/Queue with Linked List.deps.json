@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Queue with Linked List/1.0.0": {
+        "runtime": {
+          "Queue with Linked List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Queue with Linked List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

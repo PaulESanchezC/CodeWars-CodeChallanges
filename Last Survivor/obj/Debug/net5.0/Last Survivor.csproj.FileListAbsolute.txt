@@ -1,0 +1,32 @@
+C:\Users\Paulyglot\source\repos\Last Survivor\obj\Debug\net5.0\Last Survivor.csprojAssemblyReference.cache
+C:\Users\Paulyglot\source\repos\Last Survivor\obj\Debug\net5.0\Last Survivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\source\repos\Last Survivor\obj\Debug\net5.0\Last Survivor.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\source\repos\Last Survivor\obj\Debug\net5.0\Last Survivor.AssemblyInfo.cs
+C:\Users\Paulyglot\source\repos\Last Survivor\obj\Debug\net5.0\Last Survivor.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\source\repos\Last Survivor\bin\Debug\net5.0\Last Survivor.exe
+C:\Users\Paulyglot\source\repos\Last Survivor\bin\Debug\net5.0\Last Survivor.deps.json
+C:\Users\Paulyglot\source\repos\Last Survivor\bin\Debug\net5.0\Last Survivor.runtimeconfig.json
+C:\Users\Paulyglot\source\repos\Last Survivor\bin\Debug\net5.0\Last Survivor.runtimeconfig.dev.json
+C:\Users\Paulyglot\source\repos\Last Survivor\bin\Debug\net5.0\Last Survivor.dll
+C:\Users\Paulyglot\source\repos\Last Survivor\bin\Debug\net5.0\ref\Last Survivor.dll
+C:\Users\Paulyglot\source\repos\Last Survivor\bin\Debug\net5.0\Last Survivor.pdb
+C:\Users\Paulyglot\source\repos\Last Survivor\obj\Debug\net5.0\Last Survivor.dll
+C:\Users\Paulyglot\source\repos\Last Survivor\obj\Debug\net5.0\ref\Last Survivor.dll
+C:\Users\Paulyglot\source\repos\Last Survivor\obj\Debug\net5.0\Last Survivor.pdb
+C:\Users\Paulyglot\source\repos\Last Survivor\obj\Debug\net5.0\Last Survivor.genruntimeconfig.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\bin\Debug\net5.0\Last Survivor.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\bin\Debug\net5.0\Last Survivor.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\bin\Debug\net5.0\Last Survivor.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\bin\Debug\net5.0\Last Survivor.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\bin\Debug\net5.0\Last Survivor.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\bin\Debug\net5.0\ref\Last Survivor.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\bin\Debug\net5.0\Last Survivor.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\obj\Debug\net5.0\Last Survivor.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\obj\Debug\net5.0\Last Survivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\obj\Debug\net5.0\Last Survivor.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\obj\Debug\net5.0\Last Survivor.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\obj\Debug\net5.0\Last Survivor.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\obj\Debug\net5.0\Last Survivor.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\obj\Debug\net5.0\ref\Last Survivor.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\obj\Debug\net5.0\Last Survivor.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Last Survivor\obj\Debug\net5.0\Last Survivor.genruntimeconfig.cache

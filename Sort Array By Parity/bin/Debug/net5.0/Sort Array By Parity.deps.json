@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sort Array By Parity/1.0.0": {
+        "runtime": {
+          "Sort Array By Parity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sort Array By Parity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

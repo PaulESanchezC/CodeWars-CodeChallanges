@@ -1,0 +1,13 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\bin\Debug\netcoreapp3.1\RegexValidatePinCode.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\bin\Debug\netcoreapp3.1\RegexValidatePinCode.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\bin\Debug\netcoreapp3.1\RegexValidatePinCode.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\bin\Debug\netcoreapp3.1\RegexValidatePinCode.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\bin\Debug\netcoreapp3.1\RegexValidatePinCode.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\bin\Debug\netcoreapp3.1\RegexValidatePinCode.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\obj\Debug\netcoreapp3.1\RegexValidatePinCode.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\obj\Debug\netcoreapp3.1\RegexValidatePinCode.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\obj\Debug\netcoreapp3.1\RegexValidatePinCode.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\obj\Debug\netcoreapp3.1\RegexValidatePinCode.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\obj\Debug\netcoreapp3.1\RegexValidatePinCode.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\obj\Debug\netcoreapp3.1\RegexValidatePinCode.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RegexValidatePinCode\obj\Debug\netcoreapp3.1\RegexValidatePinCode.genruntimeconfig.cache

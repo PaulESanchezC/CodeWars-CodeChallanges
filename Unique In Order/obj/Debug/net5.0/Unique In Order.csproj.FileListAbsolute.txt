@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\bin\Debug\net5.0\Unique In Order.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\bin\Debug\net5.0\Unique In Order.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\bin\Debug\net5.0\Unique In Order.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\bin\Debug\net5.0\Unique In Order.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\bin\Debug\net5.0\Unique In Order.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\bin\Debug\net5.0\ref\Unique In Order.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\bin\Debug\net5.0\Unique In Order.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\obj\Debug\net5.0\Unique In Order.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\obj\Debug\net5.0\Unique In Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\obj\Debug\net5.0\Unique In Order.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\obj\Debug\net5.0\Unique In Order.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\obj\Debug\net5.0\Unique In Order.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\obj\Debug\net5.0\Unique In Order.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\obj\Debug\net5.0\ref\Unique In Order.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\obj\Debug\net5.0\Unique In Order.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Unique In Order\obj\Debug\net5.0\Unique In Order.genruntimeconfig.cache

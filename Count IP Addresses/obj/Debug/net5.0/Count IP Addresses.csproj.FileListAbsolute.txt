@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\bin\Debug\net5.0\Count IP Addresses.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\bin\Debug\net5.0\Count IP Addresses.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\bin\Debug\net5.0\Count IP Addresses.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\bin\Debug\net5.0\Count IP Addresses.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\bin\Debug\net5.0\Count IP Addresses.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\bin\Debug\net5.0\ref\Count IP Addresses.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\bin\Debug\net5.0\Count IP Addresses.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\obj\Debug\net5.0\Count IP Addresses.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\obj\Debug\net5.0\Count IP Addresses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\obj\Debug\net5.0\Count IP Addresses.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\obj\Debug\net5.0\Count IP Addresses.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\obj\Debug\net5.0\Count IP Addresses.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\obj\Debug\net5.0\Count IP Addresses.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\obj\Debug\net5.0\ref\Count IP Addresses.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\obj\Debug\net5.0\Count IP Addresses.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count IP Addresses\obj\Debug\net5.0\Count IP Addresses.genruntimeconfig.cache

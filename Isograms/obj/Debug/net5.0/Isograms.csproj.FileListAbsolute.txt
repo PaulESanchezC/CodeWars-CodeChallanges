@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\bin\Debug\net5.0\Isograms.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\bin\Debug\net5.0\Isograms.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\bin\Debug\net5.0\Isograms.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\bin\Debug\net5.0\Isograms.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\bin\Debug\net5.0\Isograms.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\bin\Debug\net5.0\ref\Isograms.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\bin\Debug\net5.0\Isograms.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\obj\Debug\net5.0\Isograms.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\obj\Debug\net5.0\Isograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\obj\Debug\net5.0\Isograms.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\obj\Debug\net5.0\Isograms.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\obj\Debug\net5.0\Isograms.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\obj\Debug\net5.0\Isograms.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\obj\Debug\net5.0\ref\Isograms.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\obj\Debug\net5.0\Isograms.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Isograms\obj\Debug\net5.0\Isograms.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\bin\Debug\net5.0\Sort Array By Parity.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\bin\Debug\net5.0\Sort Array By Parity.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\bin\Debug\net5.0\Sort Array By Parity.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\bin\Debug\net5.0\Sort Array By Parity.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\bin\Debug\net5.0\Sort Array By Parity.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\bin\Debug\net5.0\ref\Sort Array By Parity.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\bin\Debug\net5.0\Sort Array By Parity.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\obj\Debug\net5.0\Sort Array By Parity.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\obj\Debug\net5.0\Sort Array By Parity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\obj\Debug\net5.0\Sort Array By Parity.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\obj\Debug\net5.0\Sort Array By Parity.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\obj\Debug\net5.0\Sort Array By Parity.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\obj\Debug\net5.0\Sort Array By Parity.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\obj\Debug\net5.0\ref\Sort Array By Parity.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\obj\Debug\net5.0\Sort Array By Parity.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Sort Array By Parity\obj\Debug\net5.0\Sort Array By Parity.genruntimeconfig.cache

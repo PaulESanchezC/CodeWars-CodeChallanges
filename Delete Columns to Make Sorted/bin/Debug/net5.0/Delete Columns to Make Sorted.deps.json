@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Delete Columns to Make Sorted/1.0.0": {
+        "runtime": {
+          "Delete Columns to Make Sorted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delete Columns to Make Sorted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

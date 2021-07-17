@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\bin\Debug\net5.0\Make my numbers formatted.exe
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\bin\Debug\net5.0\Make my numbers formatted.deps.json
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\bin\Debug\net5.0\Make my numbers formatted.runtimeconfig.json
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\bin\Debug\net5.0\Make my numbers formatted.runtimeconfig.dev.json
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\bin\Debug\net5.0\Make my numbers formatted.dll
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\bin\Debug\net5.0\ref\Make my numbers formatted.dll
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\bin\Debug\net5.0\Make my numbers formatted.pdb
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\obj\Debug\net5.0\Make my numbers formatted.csprojAssemblyReference.cache
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\obj\Debug\net5.0\Make my numbers formatted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\obj\Debug\net5.0\Make my numbers formatted.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\obj\Debug\net5.0\Make my numbers formatted.AssemblyInfo.cs
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\obj\Debug\net5.0\Make my numbers formatted.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\obj\Debug\net5.0\Make my numbers formatted.dll
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\obj\Debug\net5.0\ref\Make my numbers formatted.dll
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\obj\Debug\net5.0\Make my numbers formatted.pdb
+C:\Users\Paulyglot\source\repos\Make my numbers formatted\obj\Debug\net5.0\Make my numbers formatted.genruntimeconfig.cache

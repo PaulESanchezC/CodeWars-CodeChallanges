@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Count_Negative_Numbers_in_a_Sorted_Matrix</RootNamespace>
+  </PropertyGroup>
+
+</Project>

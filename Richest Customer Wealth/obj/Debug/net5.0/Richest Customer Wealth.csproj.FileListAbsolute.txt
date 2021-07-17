@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\bin\Debug\net5.0\Richest Customer Wealth.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\bin\Debug\net5.0\Richest Customer Wealth.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\bin\Debug\net5.0\Richest Customer Wealth.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\bin\Debug\net5.0\Richest Customer Wealth.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\bin\Debug\net5.0\Richest Customer Wealth.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\bin\Debug\net5.0\ref\Richest Customer Wealth.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\bin\Debug\net5.0\Richest Customer Wealth.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\obj\Debug\net5.0\Richest Customer Wealth.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\obj\Debug\net5.0\Richest Customer Wealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\obj\Debug\net5.0\Richest Customer Wealth.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\obj\Debug\net5.0\Richest Customer Wealth.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\obj\Debug\net5.0\Richest Customer Wealth.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\obj\Debug\net5.0\Richest Customer Wealth.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\obj\Debug\net5.0\ref\Richest Customer Wealth.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\obj\Debug\net5.0\Richest Customer Wealth.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Richest Customer Wealth\obj\Debug\net5.0\Richest Customer Wealth.genruntimeconfig.cache

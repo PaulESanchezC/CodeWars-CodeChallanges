@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\obj\Debug\net5.0\NotVerySecure.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\obj\Debug\net5.0\NotVerySecure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\obj\Debug\net5.0\NotVerySecure.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\obj\Debug\net5.0\NotVerySecure.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\obj\Debug\net5.0\NotVerySecure.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\bin\Debug\net5.0\NotVerySecure.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\bin\Debug\net5.0\NotVerySecure.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\bin\Debug\net5.0\NotVerySecure.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\bin\Debug\net5.0\NotVerySecure.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\bin\Debug\net5.0\NotVerySecure.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\bin\Debug\net5.0\ref\NotVerySecure.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\bin\Debug\net5.0\NotVerySecure.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\obj\Debug\net5.0\NotVerySecure.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\obj\Debug\net5.0\ref\NotVerySecure.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\obj\Debug\net5.0\NotVerySecure.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\NotVerySecure\obj\Debug\net5.0\NotVerySecure.genruntimeconfig.cache

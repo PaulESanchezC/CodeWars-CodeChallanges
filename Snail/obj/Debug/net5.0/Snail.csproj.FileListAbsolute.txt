@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\obj\Debug\net5.0\Snail.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\obj\Debug\net5.0\Snail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\obj\Debug\net5.0\Snail.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\obj\Debug\net5.0\Snail.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\obj\Debug\net5.0\Snail.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\bin\Debug\net5.0\Snail.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\bin\Debug\net5.0\Snail.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\bin\Debug\net5.0\Snail.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\bin\Debug\net5.0\Snail.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\bin\Debug\net5.0\Snail.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\bin\Debug\net5.0\ref\Snail.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\bin\Debug\net5.0\Snail.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\obj\Debug\net5.0\Snail.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\obj\Debug\net5.0\ref\Snail.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\obj\Debug\net5.0\Snail.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Snail\obj\Debug\net5.0\Snail.genruntimeconfig.cache

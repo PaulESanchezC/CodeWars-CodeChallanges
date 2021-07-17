@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\obj\Debug\net5.0\FindTheOddInt.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\obj\Debug\net5.0\FindTheOddInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\obj\Debug\net5.0\FindTheOddInt.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\obj\Debug\net5.0\FindTheOddInt.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\obj\Debug\net5.0\FindTheOddInt.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\bin\Debug\net5.0\FindTheOddInt.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\bin\Debug\net5.0\FindTheOddInt.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\bin\Debug\net5.0\FindTheOddInt.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\bin\Debug\net5.0\FindTheOddInt.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\bin\Debug\net5.0\FindTheOddInt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\bin\Debug\net5.0\ref\FindTheOddInt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\bin\Debug\net5.0\FindTheOddInt.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\obj\Debug\net5.0\FindTheOddInt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\obj\Debug\net5.0\ref\FindTheOddInt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\obj\Debug\net5.0\FindTheOddInt.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\FindTheOddInt\obj\Debug\net5.0\FindTheOddInt.genruntimeconfig.cache

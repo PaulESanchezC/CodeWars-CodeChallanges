@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\bin\Debug\net5.0\Binary Search Tree from scratch.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\bin\Debug\net5.0\Binary Search Tree from scratch.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\bin\Debug\net5.0\Binary Search Tree from scratch.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\bin\Debug\net5.0\Binary Search Tree from scratch.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\bin\Debug\net5.0\Binary Search Tree from scratch.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\bin\Debug\net5.0\ref\Binary Search Tree from scratch.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\bin\Debug\net5.0\Binary Search Tree from scratch.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\obj\Debug\net5.0\Binary Search Tree from scratch.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\obj\Debug\net5.0\Binary Search Tree from scratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\obj\Debug\net5.0\Binary Search Tree from scratch.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\obj\Debug\net5.0\Binary Search Tree from scratch.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\obj\Debug\net5.0\Binary Search Tree from scratch.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\obj\Debug\net5.0\Binary Search Tree from scratch.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\obj\Debug\net5.0\ref\Binary Search Tree from scratch.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\obj\Debug\net5.0\Binary Search Tree from scratch.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Binary Search Tree from scratch\obj\Debug\net5.0\Binary Search Tree from scratch.genruntimeconfig.cache

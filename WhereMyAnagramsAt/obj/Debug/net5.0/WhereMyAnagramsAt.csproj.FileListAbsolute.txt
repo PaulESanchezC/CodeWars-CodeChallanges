@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\bin\Debug\net5.0\ref\WhereMyAnagramsAt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\obj\Debug\net5.0\ref\WhereMyAnagramsAt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.genruntimeconfig.cache

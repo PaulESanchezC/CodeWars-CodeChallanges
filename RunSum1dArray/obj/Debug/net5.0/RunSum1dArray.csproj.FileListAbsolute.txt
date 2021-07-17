@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\bin\Debug\net5.0\RunSum1dArray.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\bin\Debug\net5.0\RunSum1dArray.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\bin\Debug\net5.0\RunSum1dArray.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\bin\Debug\net5.0\RunSum1dArray.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\bin\Debug\net5.0\RunSum1dArray.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\bin\Debug\net5.0\ref\RunSum1dArray.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\bin\Debug\net5.0\RunSum1dArray.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\obj\Debug\net5.0\RunSum1dArray.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\obj\Debug\net5.0\RunSum1dArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\obj\Debug\net5.0\RunSum1dArray.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\obj\Debug\net5.0\RunSum1dArray.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\obj\Debug\net5.0\RunSum1dArray.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\obj\Debug\net5.0\RunSum1dArray.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\obj\Debug\net5.0\ref\RunSum1dArray.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\obj\Debug\net5.0\RunSum1dArray.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\RunSum1dArray\obj\Debug\net5.0\RunSum1dArray.genruntimeconfig.cache

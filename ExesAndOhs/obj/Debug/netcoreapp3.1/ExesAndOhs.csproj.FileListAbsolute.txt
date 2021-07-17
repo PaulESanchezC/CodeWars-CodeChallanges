@@ -1,0 +1,13 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\bin\Debug\netcoreapp3.1\ExesAndOhs.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\bin\Debug\netcoreapp3.1\ExesAndOhs.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\bin\Debug\netcoreapp3.1\ExesAndOhs.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\bin\Debug\netcoreapp3.1\ExesAndOhs.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\bin\Debug\netcoreapp3.1\ExesAndOhs.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\bin\Debug\netcoreapp3.1\ExesAndOhs.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\obj\Debug\netcoreapp3.1\ExesAndOhs.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\obj\Debug\netcoreapp3.1\ExesAndOhs.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\obj\Debug\netcoreapp3.1\ExesAndOhs.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\obj\Debug\netcoreapp3.1\ExesAndOhs.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\obj\Debug\netcoreapp3.1\ExesAndOhs.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\obj\Debug\netcoreapp3.1\ExesAndOhs.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ExesAndOhs\obj\Debug\netcoreapp3.1\ExesAndOhs.genruntimeconfig.cache

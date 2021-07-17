@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Growth of a Population/1.0.0": {
+        "runtime": {
+          "Growth of a Population.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Growth of a Population/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

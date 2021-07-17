@@ -1,0 +1,13 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\bin\Debug\netcoreapp3.1\ShortestWord.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\bin\Debug\netcoreapp3.1\ShortestWord.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\bin\Debug\netcoreapp3.1\ShortestWord.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\bin\Debug\netcoreapp3.1\ShortestWord.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\bin\Debug\netcoreapp3.1\ShortestWord.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\bin\Debug\netcoreapp3.1\ShortestWord.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\obj\Debug\netcoreapp3.1\ShortestWord.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\obj\Debug\netcoreapp3.1\ShortestWord.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\obj\Debug\netcoreapp3.1\ShortestWord.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\obj\Debug\netcoreapp3.1\ShortestWord.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\obj\Debug\netcoreapp3.1\ShortestWord.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\obj\Debug\netcoreapp3.1\ShortestWord.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\ShortestWord\obj\Debug\netcoreapp3.1\ShortestWord.genruntimeconfig.cache

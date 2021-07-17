@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\bin\Debug\net5.0\Consecutive strings.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\bin\Debug\net5.0\Consecutive strings.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\bin\Debug\net5.0\Consecutive strings.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\bin\Debug\net5.0\Consecutive strings.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\bin\Debug\net5.0\Consecutive strings.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\bin\Debug\net5.0\ref\Consecutive strings.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\bin\Debug\net5.0\Consecutive strings.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\obj\Debug\net5.0\Consecutive strings.csproj.AssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\obj\Debug\net5.0\Consecutive strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\obj\Debug\net5.0\Consecutive strings.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\obj\Debug\net5.0\Consecutive strings.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\obj\Debug\net5.0\Consecutive strings.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\obj\Debug\net5.0\Consecutive strings.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\obj\Debug\net5.0\ref\Consecutive strings.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\obj\Debug\net5.0\Consecutive strings.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Consecutive strings\Consecutive strings\obj\Debug\net5.0\Consecutive strings.genruntimeconfig.cache

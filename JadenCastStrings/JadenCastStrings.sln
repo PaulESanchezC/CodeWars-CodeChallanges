@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JadenCastStrings", "JadenCastStrings.csproj", "{C5BAA87B-5BB2-461D-8139-1C81C2109BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5BAA87B-5BB2-461D-8139-1C81C2109BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BAA87B-5BB2-461D-8139-1C81C2109BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BAA87B-5BB2-461D-8139-1C81C2109BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BAA87B-5BB2-461D-8139-1C81C2109BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28213E25-2194-433D-86C6-8A16033890F7}
+	EndGlobalSection
+EndGlobal

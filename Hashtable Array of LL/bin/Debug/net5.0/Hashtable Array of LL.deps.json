@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Hashtable Array of LL/1.0.0": {
+        "runtime": {
+          "Hashtable Array of LL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hashtable Array of LL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

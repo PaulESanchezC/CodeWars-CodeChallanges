@@ -1,0 +1,13 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\bin\Debug\netcoreapp3.1\WhoLikesIt.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\bin\Debug\netcoreapp3.1\WhoLikesIt.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\bin\Debug\netcoreapp3.1\WhoLikesIt.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\bin\Debug\netcoreapp3.1\WhoLikesIt.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\bin\Debug\netcoreapp3.1\WhoLikesIt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\bin\Debug\netcoreapp3.1\WhoLikesIt.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\obj\Debug\netcoreapp3.1\WhoLikesIt.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\obj\Debug\netcoreapp3.1\WhoLikesIt.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\obj\Debug\netcoreapp3.1\WhoLikesIt.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\obj\Debug\netcoreapp3.1\WhoLikesIt.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\obj\Debug\netcoreapp3.1\WhoLikesIt.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\obj\Debug\netcoreapp3.1\WhoLikesIt.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\WhoLikesIt\obj\Debug\netcoreapp3.1\WhoLikesIt.genruntimeconfig.cache

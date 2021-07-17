@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\bin\Debug\net5.0\Stack from arrays.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\bin\Debug\net5.0\Stack from arrays.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\bin\Debug\net5.0\Stack from arrays.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\bin\Debug\net5.0\Stack from arrays.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\bin\Debug\net5.0\Stack from arrays.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\bin\Debug\net5.0\ref\Stack from arrays.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\bin\Debug\net5.0\Stack from arrays.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\obj\Debug\net5.0\Stack from arrays.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\obj\Debug\net5.0\Stack from arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\obj\Debug\net5.0\Stack from arrays.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\obj\Debug\net5.0\Stack from arrays.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\obj\Debug\net5.0\Stack from arrays.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\obj\Debug\net5.0\Stack from arrays.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\obj\Debug\net5.0\ref\Stack from arrays.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\obj\Debug\net5.0\Stack from arrays.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Stack from arrays\obj\Debug\net5.0\Stack from arrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\obj\Debug\netcoreapp3.1\JadenCastStrings.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\obj\Debug\netcoreapp3.1\JadenCastStrings.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\obj\Debug\netcoreapp3.1\JadenCastStrings.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\obj\Debug\netcoreapp3.1\JadenCastStrings.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\bin\Debug\netcoreapp3.1\JadenCastStrings.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\bin\Debug\netcoreapp3.1\JadenCastStrings.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\bin\Debug\netcoreapp3.1\JadenCastStrings.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\bin\Debug\netcoreapp3.1\JadenCastStrings.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\bin\Debug\netcoreapp3.1\JadenCastStrings.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\bin\Debug\netcoreapp3.1\JadenCastStrings.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\obj\Debug\netcoreapp3.1\JadenCastStrings.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\obj\Debug\netcoreapp3.1\JadenCastStrings.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\JadenCastStrings\obj\Debug\netcoreapp3.1\JadenCastStrings.genruntimeconfig.cache

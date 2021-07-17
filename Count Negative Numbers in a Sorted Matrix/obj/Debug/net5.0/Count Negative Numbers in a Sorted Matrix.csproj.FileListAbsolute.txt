@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\bin\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\bin\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\bin\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\bin\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\bin\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\bin\Debug\net5.0\ref\Count Negative Numbers in a Sorted Matrix.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\bin\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\obj\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\obj\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\obj\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\obj\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\obj\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\obj\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\obj\Debug\net5.0\ref\Count Negative Numbers in a Sorted Matrix.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\obj\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Count Negative Numbers in a Sorted Matrix\obj\Debug\net5.0\Count Negative Numbers in a Sorted Matrix.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\bin\Debug\net5.0\IsANumberPrime.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\bin\Debug\net5.0\IsANumberPrime.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\bin\Debug\net5.0\IsANumberPrime.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\bin\Debug\net5.0\IsANumberPrime.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\bin\Debug\net5.0\IsANumberPrime.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\bin\Debug\net5.0\ref\IsANumberPrime.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\bin\Debug\net5.0\IsANumberPrime.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\obj\Debug\net5.0\IsANumberPrime.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\obj\Debug\net5.0\IsANumberPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\obj\Debug\net5.0\IsANumberPrime.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\obj\Debug\net5.0\IsANumberPrime.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\obj\Debug\net5.0\IsANumberPrime.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\obj\Debug\net5.0\IsANumberPrime.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\obj\Debug\net5.0\ref\IsANumberPrime.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\obj\Debug\net5.0\IsANumberPrime.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\IsANumberPrime\obj\Debug\net5.0\IsANumberPrime.genruntimeconfig.cache

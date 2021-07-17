@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\bin\Debug\net5.0\How Green Is My Valley.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\bin\Debug\net5.0\How Green Is My Valley.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\bin\Debug\net5.0\How Green Is My Valley.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\bin\Debug\net5.0\How Green Is My Valley.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\bin\Debug\net5.0\How Green Is My Valley.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\bin\Debug\net5.0\ref\How Green Is My Valley.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\bin\Debug\net5.0\How Green Is My Valley.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\obj\Debug\net5.0\How Green Is My Valley.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\obj\Debug\net5.0\How Green Is My Valley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\obj\Debug\net5.0\How Green Is My Valley.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\obj\Debug\net5.0\How Green Is My Valley.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\obj\Debug\net5.0\How Green Is My Valley.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\obj\Debug\net5.0\How Green Is My Valley.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\obj\Debug\net5.0\ref\How Green Is My Valley.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\obj\Debug\net5.0\How Green Is My Valley.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\How Green Is My Valley\obj\Debug\net5.0\How Green Is My Valley.genruntimeconfig.cache

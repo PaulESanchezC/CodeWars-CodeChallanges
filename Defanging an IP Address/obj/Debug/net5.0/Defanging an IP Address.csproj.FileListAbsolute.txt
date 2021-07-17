@@ -1,0 +1,16 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\bin\Debug\net5.0\Defanging an IP Address.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\bin\Debug\net5.0\Defanging an IP Address.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\bin\Debug\net5.0\Defanging an IP Address.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\bin\Debug\net5.0\Defanging an IP Address.runtimeconfig.dev.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\bin\Debug\net5.0\Defanging an IP Address.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\bin\Debug\net5.0\ref\Defanging an IP Address.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\bin\Debug\net5.0\Defanging an IP Address.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\obj\Debug\net5.0\Defanging an IP Address.csprojAssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\obj\Debug\net5.0\Defanging an IP Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\obj\Debug\net5.0\Defanging an IP Address.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\obj\Debug\net5.0\Defanging an IP Address.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\obj\Debug\net5.0\Defanging an IP Address.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\obj\Debug\net5.0\Defanging an IP Address.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\obj\Debug\net5.0\ref\Defanging an IP Address.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\obj\Debug\net5.0\Defanging an IP Address.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\Defanging an IP Address\obj\Debug\net5.0\Defanging an IP Address.genruntimeconfig.cache
