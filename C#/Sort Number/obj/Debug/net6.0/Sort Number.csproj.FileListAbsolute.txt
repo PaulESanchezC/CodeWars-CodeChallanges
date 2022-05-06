@@ -1,0 +1,15 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\bin\Debug\net6.0\Sort Number.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\bin\Debug\net6.0\Sort Number.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\bin\Debug\net6.0\Sort Number.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\bin\Debug\net6.0\Sort Number.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\bin\Debug\net6.0\Sort Number.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\Sort Number.csproj.AssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\Sort Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\Sort Number.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\Sort Number.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\Sort Number.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\Sort Number.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\refint\Sort Number.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\Sort Number.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\Sort Number.genruntimeconfig.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Sort Number\obj\Debug\net6.0\ref\Sort Number.dll
