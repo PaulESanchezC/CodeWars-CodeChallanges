@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Count the number of days between two dates/1.0.0": {
+        "runtime": {
+          "Count the number of days between two dates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count the number of days between two dates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

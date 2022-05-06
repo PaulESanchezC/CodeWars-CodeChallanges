@@ -1,0 +1,15 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\Count the number of days between two dates.csproj.AssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\Count the number of days between two dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\Count the number of days between two dates.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\Count the number of days between two dates.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\Count the number of days between two dates.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\bin\Debug\net6.0\Count the number of days between two dates.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\bin\Debug\net6.0\Count the number of days between two dates.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\bin\Debug\net6.0\Count the number of days between two dates.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\bin\Debug\net6.0\Count the number of days between two dates.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\bin\Debug\net6.0\Count the number of days between two dates.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\Count the number of days between two dates.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\refint\Count the number of days between two dates.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\Count the number of days between two dates.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\Count the number of days between two dates.genruntimeconfig.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\Count the number of days between two dates\obj\Debug\net6.0\ref\Count the number of days between two dates.dll
