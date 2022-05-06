@@ -1,0 +1,15 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\bin\Debug\net6.0\AnagramChecker.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\bin\Debug\net6.0\AnagramChecker.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\bin\Debug\net6.0\AnagramChecker.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\bin\Debug\net6.0\AnagramChecker.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\bin\Debug\net6.0\AnagramChecker.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\AnagramChecker.csproj.AssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\AnagramChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\AnagramChecker.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\AnagramChecker.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\AnagramChecker.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\AnagramChecker.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\refint\AnagramChecker.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\AnagramChecker.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\AnagramChecker.genruntimeconfig.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\AnagramChecker\obj\Debug\net6.0\ref\AnagramChecker.dll

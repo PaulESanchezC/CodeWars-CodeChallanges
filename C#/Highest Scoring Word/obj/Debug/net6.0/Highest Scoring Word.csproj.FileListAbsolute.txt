@@ -1,0 +1,15 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\bin\Debug\net6.0\Highest Scoring Word.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\bin\Debug\net6.0\Highest Scoring Word.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\bin\Debug\net6.0\Highest Scoring Word.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\bin\Debug\net6.0\Highest Scoring Word.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\bin\Debug\net6.0\Highest Scoring Word.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\Highest Scoring Word.csproj.AssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\Highest Scoring Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\Highest Scoring Word.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\Highest Scoring Word.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\Highest Scoring Word.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\Highest Scoring Word.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\refint\Highest Scoring Word.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\Highest Scoring Word.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\Highest Scoring Word.genruntimeconfig.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\Coding Challanges\CodeWars-CodeChallanges\C#\Highest Scoring Word\obj\Debug\net6.0\ref\Highest Scoring Word.dll
