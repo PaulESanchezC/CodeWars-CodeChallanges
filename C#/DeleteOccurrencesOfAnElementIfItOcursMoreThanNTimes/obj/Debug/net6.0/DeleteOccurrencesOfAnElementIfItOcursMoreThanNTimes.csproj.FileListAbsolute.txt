@@ -1,0 +1,15 @@
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.csproj.AssemblyReference.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.AssemblyInfoInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.AssemblyInfo.cs
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.csproj.CoreCompileInputs.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\bin\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.exe
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\bin\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.deps.json
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\bin\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.runtimeconfig.json
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\bin\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\bin\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\refint\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.dll
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.pdb
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.genruntimeconfig.cache
+C:\Users\Paulyglot\Desktop\Programing\C#\CodeWars-CodeChallanges\C#\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes\obj\Debug\net6.0\ref\DeleteOccurrencesOfAnElementIfItOcursMoreThanNTimes.dll
