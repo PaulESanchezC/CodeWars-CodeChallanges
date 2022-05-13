@@ -1,4 +1,4 @@
-# CodeWars-CodeChallanges
+# CodeWars CodeChallanges
 Some CodeWars Solutions.
 
 The majority of these Challenges are from https://www.codewars.com/
